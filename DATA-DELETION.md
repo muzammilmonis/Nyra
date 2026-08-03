@@ -27,8 +27,8 @@ Some temporary information may automatically disappear when NYRA restarts or whe
 
 Submit a request through one of the following official channels:
 
-* **NYRA Support Server:** YOUR_SUPPORT_SERVER_URL
-* **Contact Email:** YOUR_CONTACT_EMAIL
+* **NYRA Support Server:** https://discord.gg/8nvKyTMts9
+* **Contact Email:** ytmuzammilop@gmail.com
 
 Your request should include:
 
