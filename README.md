@@ -91,8 +91,8 @@ NYRA does not own or host music, lyrics, artwork or other third-party media cont
 
 For support, privacy questions, legal questions or data-deletion requests:
 
-* **Support Server:** [Join NYRA Support](YOUR_SUPPORT_SERVER_URL)
-* **Contact Email:** `YOUR_CONTACT_EMAIL`
+* **Support Server:** [Join NYRA Support](https://discord.gg/8nvKyTMts9)
+* **Contact Email:** `YTMUZAMMILOP@GMAIL.COM`
 
 When submitting a request, include your Discord user ID or server ID where applicable.
 
@@ -115,6 +115,6 @@ The effective date displayed inside each document indicates its latest policy ve
 [Privacy Policy](./PRIVACY.md) •
 [Terms of Service](./TERMS.md) •
 [Data Deletion](./DATA-DELETION.md) •
-[Support Server](YOUR_SUPPORT_SERVER_URL)
+[Support Server](https://discord.gg/8nvKyTMts9)
 
 </div>
